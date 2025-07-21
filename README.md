@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baize-light-Redology
+- 👋 Hi, I’m @Daxie_Baize
 - 👀 I’m interested in C++, Python, JavaScript
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on JavaScript
